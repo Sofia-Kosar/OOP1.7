@@ -1,0 +1,94 @@
+﻿  OOP1.7.cpp
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(6,10): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(6,17): error C3646: 'surname': unknown override specifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(6,24): error C2059: syntax error: ','
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(6,42): error C2238: unexpected token(s) preceding ';'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(17,10): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(17,17): error C3646: 'Getsurname': unknown override specifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(17,27): error C2059: syntax error: '('
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(17,35): error C2238: unexpected token(s) preceding ';'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(18,10): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(18,17): error C3646: 'Getname': unknown override specifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(18,24): error C2059: syntax error: '('
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(18,32): error C2238: unexpected token(s) preceding ';'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(19,10): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(19,17): error C3646: 'Getmiddlename': unknown override specifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(19,30): error C2059: syntax error: '('
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(19,38): error C2238: unexpected token(s) preceding ';'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(26,32): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(26,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(26,38): error C2143: syntax error: missing ',' before '&'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(27,29): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(27,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(27,35): error C2143: syntax error: missing ',' before '&'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(28,35): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(28,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(28,41): error C2143: syntax error: missing ',' before '&'
+  Payment.cpp
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(6,10): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(6,17): error C3646: 'surname': unknown override specifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(6,24): error C2059: syntax error: ','
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(6,42): error C2238: unexpected token(s) preceding ';'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(17,10): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(17,17): error C3646: 'Getsurname': unknown override specifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(17,27): error C2059: syntax error: '('
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(17,35): error C2238: unexpected token(s) preceding ';'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(18,10): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(18,17): error C3646: 'Getname': unknown override specifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(18,24): error C2059: syntax error: '('
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(18,32): error C2238: unexpected token(s) preceding ';'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(19,10): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(19,17): error C3646: 'Getmiddlename': unknown override specifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(19,30): error C2059: syntax error: '('
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(19,38): error C2238: unexpected token(s) preceding ';'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(26,32): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(26,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(26,38): error C2143: syntax error: missing ',' before '&'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(27,29): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(27,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(27,35): error C2143: syntax error: missing ',' before '&'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(28,35): error C2039: 'string': is not a member of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(28,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(28,41): error C2143: syntax error: missing ',' before '&'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(31,22): error C2039: 'Getsurname': is not a member of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(2,7): message : see declaration of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(31,22): error C2270: 'Getsurname': modifiers not allowed on nonmember functions
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(32,9): error C2065: 'surname': undeclared identifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(35,22): error C2039: 'Getname': is not a member of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(2,7): message : see declaration of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(35,22): error C2270: 'Getname': modifiers not allowed on nonmember functions
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(36,9): error C2065: 'name': undeclared identifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(39,22): error C2039: 'Getmiddlename': is not a member of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(2,7): message : see declaration of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(39,22): error C2270: 'Getmiddlename': modifiers not allowed on nonmember functions
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(40,9): error C2065: 'middlename': undeclared identifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(43,15): error C2511: 'void Payment::Setsurname(const std::string &)': overloaded member function not found in 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(2,7): message : see declaration of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(44,2): error C2671: 'Payment::Setsurname': static member functions do not have 'this' pointers
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(47,15): error C2511: 'void Payment::Setname(const std::string &)': overloaded member function not found in 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(2,7): message : see declaration of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(48,2): error C2671: 'Payment::Setname': static member functions do not have 'this' pointers
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(51,15): error C2511: 'void Payment::Setmiddlename(const std::string &)': overloaded member function not found in 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.h(2,7): message : see declaration of 'Payment'
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(52,2): error C2671: 'Payment::Setmiddlename': static member functions do not have 'this' pointers
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(87,41): error C2065: 'surname': undeclared identifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(88,34): error C2065: 'name': undeclared identifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(89,46): error C2065: 'middlename': undeclared identifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(100,36): error C2065: 'surname': undeclared identifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(101,29): error C2065: 'name': undeclared identifier
+D:\programyvanya\OOP1.7\OOP1.7\Payment.cpp(102,41): error C2065: 'middlename': undeclared identifier
+  Generating Code...

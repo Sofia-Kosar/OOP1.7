@@ -1,0 +1,4 @@
+﻿  UnitTest1.7.cpp
+D:\programyvanya\OOP1.7\OOP1.7\Money.cpp(128,21): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\programyvanya\OOP1.7\OOP1.7\Money.cpp(133,21): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  UnitTest1.7.vcxproj -> D:\programyvanya\OOP1.7\x64\Debug\UnitTest1.7.dll
